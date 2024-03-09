@@ -7,6 +7,6 @@ It illustrates my ability to tackle various SQL challenges and demonstrates my p
 # 📚 Table of Contents
 
 Please find the links to the solution for the problems below. 
-  - #1: Cardiff Drinks
+  - [#1: Cardiff Drinks](https://github.com/luca28-04/SQL-PROBLEM-CHALLENGES/tree/main/Cardiff%20Drinks)
   -
   -
