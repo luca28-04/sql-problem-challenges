@@ -12,7 +12,8 @@ over the world. The database schema and problem questions are from my univeristy
 All solutions were completed by me.  
 
 # ERD
-<img width="468" alt="cardiff_drinks_erd" src="https://github.com/luca28-04/SQL-PROBLEM-CHALLENGES/assets/109167297/2bdbb622-b547-44f2-8759-f7db1e6148af">
+<img width="452" alt="cardiff_drinks_erd" src="https://github.com/luca28-04/SQL-PROBLEM-CHALLENGES/assets/109167297/9f9dbd35-6d9f-478e-a7c3-1a429bb86b8d">
+
 
 # Question and Solution
 
