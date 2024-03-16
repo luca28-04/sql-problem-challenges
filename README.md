@@ -1,6 +1,6 @@
 # SQL-PROBLEM-CHALLENGES
 
-This repository showcases the problems and solutions I solved for various SQL challenges from my University module #Exploiting and Manipulating Data.
+This repository showcases the problems and solutions I solved for various SQL challenges from my University module Exploiting and Manipulating Data.
 
 It illustrates my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills.
 
@@ -8,5 +8,5 @@ It illustrates my ability to tackle various SQL challenges and demonstrates my p
 
 Please find the links to the solution for the problems below. 
   - [#1: Cardiff Drinks](https://github.com/luca28-04/SQL-PROBLEM-CHALLENGES/tree/main/Cardiff%20Drinks)
-  -
+  - 
   -
